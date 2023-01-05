@@ -248,7 +248,7 @@
 							<div class="blog-content">
 								<h3 class="blog-title">
 									<div class="text-white">The War is Over… We are Free</div>
-									<div style="color: white; font-size: 15px; font-weight: 500;"><em>Frank Bryant, Liquid Barrier Founder</em></div>
+									<div style="color: white; font-size: 15px; font-weight: 500;"><em>Frank Bryant, Liquid Barrier Founder & CEO</em></div>
 								</h3>
 								<p class="text-white">It was burin’ mornin’ Texas on June 19, the year bein' 1865. I just washed up and dressed and was gettin’ ready to cross that old dirt road to go to the fields and start my work.</p>
 								<!-- <div class="blog-meta">

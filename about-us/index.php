@@ -1,6 +1,6 @@
 <?php include '../headers.php';  ?>
 <main>
-	<div class="breadcrumb-area bg-img" data-bg="<?php echo $baseuri; ?>/assets/img/banner/page-banner.jpg" style="padding-top: 80px;">
+	<!-- <div class="breadcrumb-area bg-img" data-bg="<?php echo $baseuri; ?>/assets/img/banner/page-banner.jpg" style="padding-top: 80px;">
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
@@ -13,8 +13,8 @@
 				</div>
 			</div>
 		</div>
-	</div>
-	<section class="service-details-wrapper">
+	</div> -->
+	<section class="service-details-wrapper" style="padding-top:100px;">
 		<div class="container">
 
 			<div class="row">
