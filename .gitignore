@@ -1,0 +1,9 @@
+.well-known/
+admin/
+awstats/
+bkup_15apr2021/
+bkup_19aug2021_original/
+log/
+.htaccess
+portfolio.zip
+.DS_Store
