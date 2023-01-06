@@ -3118,6 +3118,10 @@ textarea:focus {
 
 /*------ contact form area start -------*/
 /*------ contact info area start -------*/
+::placeholder {
+  color: white;
+  opacity: 1; /* Firefox */
+}
 .contact-information {
   height: 100%;
   padding-left: 30px;

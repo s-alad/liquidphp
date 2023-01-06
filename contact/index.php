@@ -27,20 +27,20 @@
 							<?php send_message(); ?>
 							<div class="row">
 								<div class="col-lg-6 col-md-6 col-sm-6">
-									<input name="name" placeholder="Name *" type="text" required>
+									<input name="name" placeholder="Name *" type="text" required class="placeholdercolor">
 								</div>
 								<div class="col-lg-6 col-md-6 col-sm-6">
-									<input name="cell" placeholder="Cell # " type="text">
+									<input name="cell" placeholder="Cell # " type="text" class="placeholdercolor">
 								</div>
 								<div class="col-lg-6 col-md-6 col-sm-6">
-									<input name="email" placeholder="Email *" type="text" required>
+									<input name="email" placeholder="Email *" type="text" required class="placeholdercolor">
 								</div>
 								<div class="col-lg-6 col-md-12 col-sm-12">
-									<input name="subject" placeholder="Subject *" type="text">
+									<input name="subject" placeholder="Subject *" type="text" class="placeholdercolor">
 								</div>
 								<div class="col-12">
 									<div class="contact2-textarea text-center">
-										<textarea placeholder="Message *" name="message" class="form-control2" required=""></textarea>
+										<textarea placeholder="Message *" name="message" class="form-control2" required="" class="placeholdercolor"></textarea>
 									</div>
 									<div class="contact-btn">
 										<button class="btn btn-all" style="color: white !important;" name="submit" type="submit">Send message</button>
