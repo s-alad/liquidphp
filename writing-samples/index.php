@@ -192,22 +192,25 @@
 			<h2 class=" pb-4">Proposals</h1>
 			<div class="row mtn-40">
 				<div class="col-lg-4 col-md-6">
-					<div class="blog-item mt-40">
-						<div class="blog-thumb">
-							<a href="#">
-								<img src="<?php echo $baseuri ?>/img/370x200.jpeg" alt="blog thumb">
-							</a>
+					<a href="<?php echo $baseuri ?>/proposal-alliance-art">
+						<div class="blog-item mt-40">
+							<div class="blog-thumb">
+								<img src="<?php echo $baseuri ?>/img/littleg.jpg" alt="blog thumb">
+							</div>
+							<div class="blog-content">
+								<h3 class="blog-title">
+									<div class="text-white" >Alliance Art & Community Youth Alvin Ailey Trip, October 10, 2006.</div>
+									<div style="color: white; font-size: 15px; font-weight: 500;"><em>Liquid Barrier</em></div>
+								</h3>
+								<p class="text-white">Art 4 Kidz in partnership with Alliance Arts &amp; Community has reserved 24 tickets to see the Alvin
+Ailey American Dance Theater at New York City Center located at West 55th Street, between 6th
+and 7th Avenues in mid-town Manhattan on Saturday, December 9, 2006.</p>
+								<!--<a href="#">
+									<button class="btn btn-all mt-40" id="mc-submit">Read more &gt; </button>
+								</a>-->
+							</div>
 						</div>
-						<div class="blog-content">
-							<h3 class="blog-title">
-								<!--		<a class="text-white" href="<?php echo $baseuri ?>/article-bienvenue-la-pont-translations">Bienvenue La Pont Translations</a>
-							</h3>
-					     <p class="text-white">Begun, over 10 years ago, and headed by <a href="https://www.linkedin.com/in/ACoAABk-wjsBn2e8Qsie8xi0guyt18WjAKWRQmU" target="_blank">Adjo "Mireille" Agbossoumonde, MA, LC</a>, Le Pont provides translation and interpretation services including remote interpreting (telephonic/OPI, video/VRI, ….</p> -->
-							<!--<a href="#">
-								<button class="btn btn-all mt-40" id="mc-submit">Read more &gt; </button>
-							</a>-->
-						</div>
-					</div>
+					</a>
 				</div>
 
 			</div>
@@ -233,7 +236,6 @@
 						</div>
 					</a>
 				</div>
-
 			</div>
 			<br /><br />
 			<!-- <h2 class="text-white pb-4">Creative</h1> -->
@@ -251,6 +253,25 @@
 									<div style="color: white; font-size: 15px; font-weight: 500;"><em>Frank Bryant, Liquid Barrier Founder & CEO</em></div>
 								</h3>
 								<p class="text-white">It was burin’ mornin’ Texas on June 19, the year bein' 1865. I just washed up and dressed and was gettin’ ready to cross that old dirt road to go to the fields and start my work.</p>
+								<!-- <div class="blog-meta">
+									<a href="#">25 October, 2019</a>
+								</div> -->
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<a href="<?php echo $baseuri ?>/creative-work-life-balance">
+						<div class="blog-item mt-40">
+							<div class="blog-thumb">
+									<img src="<?php echo $baseuri ?>/img/bear.jpg" alt="blog thumb">
+							</div>
+							<div class="blog-content">
+								<h3 class="blog-title">
+									<div class="text-white">Work/Life Balance – Mon Voyage à Cannes, France</div>
+									<div style="color: white; font-size: 15px; font-weight: 500;"><em>Frank Bryant, Liquid Barrier Founder & CEO</em></div>
+								</h3>
+								<p class="text-white">Let's face it, work/life balance is an often-discussed topic today in conversations involving our careers. I recently had an opportunity to give some balance to my work life by journeying to Cannes, France located in the southern part of the land of liberté, égalité, and fraternité.</p>
 								<!-- <div class="blog-meta">
 									<a href="#">25 October, 2019</a>
 								</div> -->
