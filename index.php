@@ -38,7 +38,7 @@
                     <div class="col-12">
                         <div class="breadcrumb-wrap">
                             <nav aria-label="breadcrumb">
-                                <h2 class="breadcrumb-title text-left" style="position: relative;top: -60px;">LIQUID BARRIER: WHERE WRITING IS <span style="">AN</span> ART</h2>
+                                <h2 class="breadcrumb-title text-left">LIQUID BARRIER: WHERE WRITING IS <span style="color: red;">AN</span> ART</h2>
 
                             </nav>
                         </div>
