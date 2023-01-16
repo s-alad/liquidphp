@@ -5,24 +5,25 @@
 <!-- end Header Area -->
 <main class="pt-5">
 	<!-- hero slider section start -->
-	<section style="background-color: #272727;margin-bottom:40px;">
+	<!-- <section style="background-color: #272727;margin-bottom:40px;">
 		<div id="carouselExampleSlidesOnly" class="carousel slide home-banner-carousel" data-ride="carousel">
 			<div class="carousel-inner">
 				<div class="carousel-item active">
 					<img class="d-block w-100" style="height: 300px;" src="assets/img/slider/write2.jpg">
 				</div>
-				<!--<div class="carousel-item">
+				<div class="carousel-item">
 					<img class="d-block w-100" src="assets/img/banner/page-banner.jpg">
 					</div>
 					<div class="carousel-item">
 					<img class="d-block w-100" src="assets/img/banner/page-banner.jpg">
-				</div>-->
+				</div>
 				<div class="container">
 					<div class="row">
 						<div class="col-12">
 							<div class="home-banner-text">
 								<nav aria-label="breadcrumb">
-									<!--<p class="text-white text-justify">We help today's entrepreneurs grow their businesses through fine writing and sound documentation</p>-->
+									<p class="text-white text-justify">We help today's entrepreneurs grow their businesses through fine writing and sound documentation</p>
+									<h2 class="breadcrumb-title text-left">LIQUID BARRIER: WHERE WRITING IS AN ART</h2>
 								</nav>
 							</div>
 						</div>
@@ -30,7 +31,21 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
+	<div class="breadcrumb-area bg-img" style="padding-top: 80px;" data-bg="<?php echo $baseuri; ?>/assets/img/slider/write2.jpg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="breadcrumb-wrap">
+                            <nav aria-label="breadcrumb">
+                                <h2 class="breadcrumb-title text-left" style="position: relative;top: -60px;">LIQUID BARRIER: WHERE WRITING IS <span style="">AN</span> ART</h2>
+
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 	<!-- hero slider section end -->
 
 	<!-- service policy start -->

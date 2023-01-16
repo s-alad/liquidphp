@@ -156,7 +156,7 @@ $baseuri = url();
                       <ul class="dropdown">
                         <li><a href="<?php echo $baseuri ?>/writing-samples">Writing Samples</a></li>
                         <!-- <li><a href="<?php echo $baseuri ?>/use">Case Studies</a></li> -->
-                        <li><a href="<?php echo $baseuri ?>/press">Press / Media</a></li>
+                        <li><a href="<?php echo $baseuri ?>/press">News</a></li>
                       </ul>
                     </li>
                     <li class="<?php echo (basename($get_dir) == 'contact') ? 'active' : ''; ?>"><a href="<?php echo $baseuri ?>/contact">Contact Us</a></li>

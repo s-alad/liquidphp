@@ -9,7 +9,7 @@
                     <div class="col-12">
                         <div class="breadcrumb-wrap">
                             <nav aria-label="breadcrumb">
-                                <h2 class="breadcrumb-title text-left">PRESS / MEDIA</h2>
+                                <h2 class="breadcrumb-title text-left">NEWS</h2>
 
                             </nav>
                         </div>
@@ -27,14 +27,14 @@
                     <div class="col-lg-8 pl-lg-45 order-1 order-lg-2">
                         <div class="service-details">
 
-                            <h2 class="h1 title pt-5 pb-3">Press Releases</h2>
+                            <h2 class="h1 pt-5 pb-3">News</h2>
                             <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, sunt perspiciatis error id ipsa atque unde quis dolore nobis eum aperiam enim blanditiis pariatur inventore eius commodi consectetur ut. Totam, assumenda! Laboriosam possimus, corporis dicta!</p>
                             <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquid quod, officiis unde nostrum itaque! Adipisci dolorum, ab dolor, exercitationem praesentium dolorem quo voluptatum itaque dignissimos, sit esse cupiditate. Doloremque rerum similique a nobis placeat in illum, quo quaerat, ut repellat, fuga itaque? Nihil mollitia nisi, nam, accusantium nemo consequuntur reiciendis autem dicta consequatur earum beatae dolor distinctio, debitis repudiandae?</p>
 
 
                         </div>
                     </div>
-                    <div class="col-lg-8 pl-lg-45 order-1 order-lg-2">
+                    <!-- <div class="col-lg-8 pl-lg-45 order-1 order-lg-2">
                         <div class="service-details">
 
                             <h2 class="h1 title pt-5 pb-3">Media</h2>
@@ -43,7 +43,7 @@
 
 
                         </div>
-                    </div>
+                    </div> -->
 					<!--
                     <div class="col-lg-8 pl-lg-45 order-1 order-lg-2">
                         <div class="service-details">

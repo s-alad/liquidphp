@@ -53,7 +53,7 @@ Irvington, NJ</p>
                                 <ul class="text-white">
                                     <li><a class="text-white" href="<?php echo $baseuri ?>/writing-samples">Writing Samples</a></li>
                                     <li><a class="text-white" href="<?php echo $baseuri ?>/use">Case Studies</a></li>
-                                     <li><a class="text-white" href="<?php echo $baseuri ?>/press">Press / Media</a></li>
+                                     <li><a class="text-white" href="<?php echo $baseuri ?>/press">News</a></li>
                                 </ul>
                             </div>
                         </div>
