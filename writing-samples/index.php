@@ -239,7 +239,7 @@ and 7th Avenues in mid-town Manhattan on Saturday, December 9, 2006.</p>
 			</div>
 			<br /><br />
 			<!-- <h2 class="text-white pb-4">Creative</h1> -->
-			<h2 class=" pb-4">Fiction & Creative Writing</h1>
+			<h2 class=" pb-4">Fiction And Creative Writing</h1>
 			<div class="row mtn-40">
 				<div class="col-lg-4 col-md-6">
 					<a href="<?php echo $baseuri ?>/creative-the-war-is-over">

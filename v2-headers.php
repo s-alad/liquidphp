@@ -263,7 +263,7 @@ body {
                                         <li class="<?php echo (basename($get_dir) == 'insights' || basename($get_dir) == 'writing-samples' || basename($get_dir) == 'use' || basename($get_dir) == 'press')?'active':''; ?>"><a href="<?php echo $baseuri ?>/insights"> Insights &amp; Ideas </a>
                                             <ul class="dropdown">
                                                 <li><a href="<?php echo $baseuri ?>/writing-samples">Writing Samples</a></li>
-                                                <li><a href="<?php echo $baseuri ?>/use">Case Studies</a></li>
+                                                <!-- <li><a href="<?php echo $baseuri ?>/use">Case Studies</a></li> -->
                                                 <li><a href="<?php echo $baseuri ?>/press">Press / Media</a></li>
                                             </ul>
                                         </li>

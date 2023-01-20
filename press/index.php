@@ -5,7 +5,7 @@
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="d-block w-100" style="height: 323px;" src="<?php echo $baseuri ?>/assets/img/banner/page-banner.jpg">
+                <img class="d-block w-100" style="height: 323px; filter: grayscale(100%); object-fit: cover;" src="<?php echo $baseuri ?>/img/newsban.JPG">
             </div>
             <!--<div class="carousel-item">
       <img class="d-block w-100" style="height: 323px;" src="assets/img/banner/page-banner.jpg">
@@ -19,7 +19,7 @@
                     <div class="col-12">
                         <div class="breadcrumb-wrap">
                             <nav aria-label="breadcrumb">
-                                <h2 class="breadcrumb-title text-left">Our Team</h2>
+                                <h2 class="breadcrumb-title text-left">News</h2>
 
                             </nav>
                         </div>
