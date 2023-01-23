@@ -32,7 +32,7 @@
 
             </div>
 			<br />
-			<div class="container">
+			<div class="container" style="margin: 0 !important; padding-left: 55px !important;">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="">
