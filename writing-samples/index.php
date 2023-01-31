@@ -87,7 +87,7 @@
 
 			</div>-->
 			<br /><br />
-			<h2 class=" pb-4">Thought Leadership & Opinions</h1>
+			<h2 class=" pb-4">Thought Leadership And Opinions</h1>
 			<div class="row mtn-40">
 
 				<div class="col-lg-4 col-md-6">
@@ -228,7 +228,7 @@ and 7th Avenues in mid-town Manhattan on Saturday, December 9, 2006.</p>
 									<div class="text-white" >Bienvenue La Pont Translations</div>
 									<div style="color: white; font-size: 15px; font-weight: 500;"><em>Liquid Barrier</em></div>
 								</h3>
-								<p class="text-white">Begun, over 10 years ago, and headed by <a href="https://www.linkedin.com/in/ACoAABk-wjsBn2e8Qsie8xi0guyt18WjAKWRQmU" target="_blank" style="color: #0172d0 !important;">Adjo "Mireille" Agbossoumonde, MA, LC</a>, Le Pont provides translation and interpretation services including remote interpreting (telephonic/OPI, video/VRI, ….</p>
+								<p class="text-white">Begun, over 10 years ago, and headed by Adjo "Mireille" Agbossoumonde, MA, LC, Le Pont provides translation and interpretation services including remote interpreting (telephonic/OPI, video/VRI, ….</p>
 								<!--<a href="#">
 									<button class="btn btn-all mt-40" id="mc-submit">Read more &gt; </button>
 								</a>-->

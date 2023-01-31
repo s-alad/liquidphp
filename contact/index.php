@@ -65,25 +65,25 @@
                                 <a href="https://www.facebook.com/liquidbarrier/" class="nav-i" style="position: relative; width: 32px;">
 									<i class=" text-white fa fa-facebook" style="font-size: 18px; left: 0; position: relative;"></i>
 								</a>
-								Facebook: liquidbarrier
+								<div style="position: relative; top: 3px !important;">Facebook: liquidbarrier</div>
 							</li>
 							<li class="text-right" style="border: none !important; padding-bottom: 0px !important; margin-bottom: 4px; height: 25px; color: white;">
                                 <a href="https://www.twitter.com/"class="nav-i" style="position: relative; width: 32px;">
 									<i class="  text-white fa fa-twitter" style="font-size: 18px; left: 0; position: relative;"></i>
 								</a>
-								Twitter: @liquidbarrier
+								<div style="position: relative; top: 3px !important;">Twitter: @liquidbarrier</div>
 							</li>
 							<li class="text-right" style="border: none !important; padding-bottom: 0px !important; margin-bottom: 4px; height: 25px; color: white;">
                                 <a href="https://www.instagram.com/liquidbarrier/"class="nav-i" style="position: relative; width: 32px;">
 									<i class="  text-white fa fa-instagram" style="font-size: 18px; left: 0; position: relative;"></i>
 								</a>
-								Instagram: @liquidbarrier
+								<div style="position: relative; top: 3px !important;">Instagram: @liquidbarrier</div>
 							</li>
 							<li class="text-right" style="border: none !important; padding-bottom: 0px !important; margin-bottom: 4px; height: 25px; color: white;">
                                 <a href="https://www.linkedin.com/company/liquidbarrier/"class="nav-i" style="position: relative; width: 32px;">
 									<i class=" text-white fa fa-linkedin" style="font-size: 18px; left: 0; position: relative;"></i>
 								</a>
-								Linkedin: liquidbarrier
+								<div style="position: relative; top: 3px !important;">Linkedin: liquidbarrier</div>
 							</li>
 						</ul>
 						<div class="text-white mt-40" style="float:left;padding:10px;"><a href="https://on.sprintful.com/frank-bryant" target="_blank" style="color: white !important;" class="btn btn-all">Schedule a free writing consultation</a></div>
