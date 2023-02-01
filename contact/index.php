@@ -83,7 +83,7 @@
                                 <a href="https://www.linkedin.com/company/liquidbarrier/"class="nav-i" style="position: relative; width: 32px;">
 									<i class=" text-white fa fa-linkedin" style="font-size: 18px; left: 0; position: relative;"></i>
 								</a>
-								<div style="position: relative; top: 3px !important;">Linkedin: liquidbarrier</div>
+								<div style="position: relative; top: 4px !important;">Linkedin: liquidbarrier</div>
 							</li>
 						</ul>
 						<div class="text-white mt-40" style="float:left;padding:10px;"><a href="https://on.sprintful.com/frank-bryant" target="_blank" style="color: white !important;" class="btn btn-all">Schedule a free writing consultation</a></div>

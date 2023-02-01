@@ -87,7 +87,7 @@
 
 			</div>-->
 			<br /><br />
-			<h2 class=" pb-4">Thought Leadership And Opinions</h1>
+			<h2 class=" pb-4">Thought Leadership and Opinions</h1>
 			<div class="row mtn-40">
 
 				<div class="col-lg-4 col-md-6">
@@ -204,7 +204,7 @@
 								</h3>
 								<p class="text-white">Art 4 Kidz in partnership with Alliance Arts &amp; Community has reserved 24 tickets to see the Alvin
 Ailey American Dance Theater at New York City Center located at West 55th Street, between 6th
-and 7th Avenues in mid-town Manhattan on Saturday, December 9, 2006.</p>
+and 7th Avenues in mid-town Manhattan on Saturday.</p>
 								<!--<a href="#">
 									<button class="btn btn-all mt-40" id="mc-submit">Read more &gt; </button>
 								</a>-->
@@ -239,7 +239,7 @@ and 7th Avenues in mid-town Manhattan on Saturday, December 9, 2006.</p>
 			</div>
 			<br /><br />
 			<!-- <h2 class="text-white pb-4">Creative</h1> -->
-			<h2 class=" pb-4">Fiction And Creative Writing</h1>
+			<h2 class=" pb-4">Fiction and Creative Writing</h1>
 			<div class="row mtn-40">
 				<div class="col-lg-4 col-md-6">
 					<a href="<?php echo $baseuri ?>/creative-the-war-is-over">

@@ -30,7 +30,7 @@
 							<div class="col-sm-8"> 
 								<div class="service-details-content mt-10">
 
-									<p class="text-white" style="padding-right: 30px;">"Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma -- which is living with the results of other people's thinking." <br />-<em style="font-size: 15px;">Steve Jobs</em></p>
+									<p class="text-white" style="padding-right: 30px;">"Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma <br/>-- which is living with the results of other people's thinking." <br />-<em style="font-size: 15px;">Steve Jobs</em></p>
 								</div>
 							</div>
 							<div class="col-sm-4">

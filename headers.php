@@ -152,7 +152,7 @@ $baseuri = url();
                                                 <li><a href="blog-details-left.html">Blog Details Left Sidebar</a></li>
                                             </ul>
                                         </li> -->
-                    <li class="<?php echo (basename($get_dir) == 'insights' || basename($get_dir) == 'writing-samples' || basename($get_dir) == 'use' || basename($get_dir) == 'press') ? 'active' : ''; ?>"><a href="<?php echo $baseuri ?>/insights"> Insights <!-- &amp; Ideas --> </a>
+                    <li class="<?php echo (basename($get_dir) == 'insights' || basename($get_dir) == 'writing-samples' || basename($get_dir) == 'use' || basename($get_dir) == 'press') ? 'active' : ''; ?>"><a href="<?php echo $baseuri ?>/insights"> Insights & Ideas <!-- &amp; Ideas --> </a>
                       <ul class="dropdown">
                         <li><a href="<?php echo $baseuri ?>/writing-samples">Writing Samples</a></li>
                         <!-- <li><a href="<?php echo $baseuri ?>/use">Case Studies</a></li> -->
