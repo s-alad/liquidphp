@@ -62,7 +62,7 @@
 						<img src="img/who-we-are.jpg" alt="blog thumb">
 					</a>
 					<!--<a class="text-decoration-none " href="about-us"><h4 class="service-policy-title font-weight-bolder">Who We Are</h4></a>-->
-					<p class="service-policy-desc text-white"><a href="about-us">We are a dynamic, analytical, and artistic team of writers who recognize the impacts of recent world events…</a></p>
+					<p class="service-policy-desc text-white"><a href="about-us">We are a dynamic, analytical, and artistic team of writers who recognize the impacts of recent world events and want to…</a></p>
 					<a href="about-us" >
 						<button class="btn btn-all mt-20" style="font-size:15px;" id="mc-submit">Read more &gt; </button>
 					</a>
@@ -77,7 +77,7 @@
 						<img src="img/diversity-inclusion.jpg" alt="blog thumb">
 					</a>
 					<!--<a class="text-decoration-none" href="#"><h4 class="service-policy-title font-weight-bolder">Technology, Business &amp; Social Media Content</h4></a>-->
-					<p class="service-policy-desc text-white"><a href="diversity-inclusion">Liquid Barrier firmly supports workforce diversity and inclusion and social and cultural respect for….</a></p>
+					<p class="service-policy-desc text-white"><a href="diversity-inclusion">Liquid Barrier firmly supports workforce diversity and inclusion and social and cultural respect for the following groups…</a></p>
 					<a href="diversity-inclusion">
 						<button class="btn btn-all mt-40"  style="font-size:15px;" id="mc-submit">Read more &gt; </button>
 					</a>

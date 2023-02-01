@@ -49,7 +49,7 @@
 	<div class="footer-widget-area gray-bg " style="background-color: #272727;">
 		<div class="container">
 			<!-- <h1 class="h1 title">What We Do (and how we do it)</h1> -->
-			<h1 class="h1">What We Do (and how we do it)</h1>
+			<h1 class="h1" style="margin-top: 30px;">What We Do (and how we do it)</h1>
 			<div class="row">
 				<div class="col-lg-12 col-md-12 " >
 					<!-- footer single widget start -->
@@ -120,8 +120,8 @@
 				<div class="col-lg-12 order-1 order-lg-2">
 					<div class="service-details">
 						<!-- <h1 class="h1 title">Where We’re Going</h1> -->
-						<h1 class="h1">Where We’re Going</h1>
-						<h3 class="text-white" style="font-weight:normal;">We are heading to the stars if you dare to join us!</h3><br />
+						<h1 class="h1" style="margin-top: 30px;">Where We’re Going</h1>
+						<h3 class="text-white" style="font-weight:normal; margin-bottom: 8px;">We are heading to the stars if you dare to join us!</h3>
 						<p class="text-white">We are reaching for the stars and beyond and taking everyone who dares to join us with us. We believe writing is a company’s most powerful tool and greatest asset to communicate its vision, products, services, and dreams to a body of constituents greater than all the stars in the skies or to a group who can fit around grandma’s kitchen table. </p>
 						<p class="text-white">We dare to hope all companies will realize the importance and power of writing and engage companies like Liquid Barrier to support them in their journey to more brilliant communications.  </p>
 					</div>

@@ -32,30 +32,30 @@
 
             </div>
 			<br />
-			<div class="container" style="margin: 0 !important; padding-left: 55px !important;">
+			<div class="container" style="">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="">
-                            <h2 class="title text-white text-center">Successfully completed projects with numbers of satisfied clients</h2>
+                            <h2 class="title text-white">Successfully completed projects with numbers of satisfied clients</h2>
                         </div>
                     </div>
 					<div style="clear:both;"></div>
                 </div>
 
                 <div class="row">
-                    <div class="col-md-4 col-sm-4">
+                    <div class="col-md-4 col-sm-4" style="display: flex;">
                         <div class="counterup-item mt-40">
                             <span class="odometer h1" data-count="30"></span>
                             <h5 class="text-white">Satisfied Clients</h5>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-4">
+                    <div class="col-md-4 col-sm-4" style="display: flex;">
                         <div class="counterup-item mt-40">
                             <span class="odometer h1 text-white" data-count="30 "></span>
                             <h5 class="text-white">Completed Projects</h5>
                         </div>
                     </div>
-                    <div class="col-md-4 col-sm-4">
+                    <div class="col-md-4 col-sm-4" style="display: flex;">
                         <div class="counterup-item mt-40">
                             <span class="odometer h1" data-count="1500"></span>
                             <h5 class="text-white">LinkedIn Follows</h5>

@@ -6,7 +6,8 @@
 <!-- end Header Area -->
 <main>
     <!-- breadcrumb section start -->
-    <div class="breadcrumb-area bg-img" style="padding-top: 80px;" data-bg="<?php echo $baseuri; ?>/img/services-pages-banner.jpg">
+    <!-- <div class="breadcrumb-area bg-img" style="padding-top: 80px;" data-bg="<?php echo $baseuri; ?>/img/services-pages-banner.jpg"> -->
+    <div class="breadcrumb-area bg-img" style="padding-top: 80px;" data-bg="https://images.pexels.com/photos/3972624/pexels-photo-3972624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -106,21 +107,21 @@
                         <div class="our-services-lbs-discbox border-white-lbs-padding">
                             <div class="strong"> Thought Leadership </div>
                             <div style="margin-bottom: 10px;">articles or other content related to expression of ideas demonstrating the author has a high expertise level in a particular field, area, or topic.</div>
-                            <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div>
+                            <!-- <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div> -->
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3" style="border:1px solid white;margin:0 4% 30px 4%;padding:30px 10px;">
                         <div class="our-services-lbs-discbox border-white-lbs-padding">
                             <div class="strong"> Business Documents </div>
                             <div style="margin-bottom: 10px;">business plans (w/marketing research) and strategy documents; proposals; business concept documents; business cases; professional biographies; RFIs; RFPs; KPIs; presentations; and procedural and control related documents,</div>
-                            <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div>
+                            <!-- <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div> -->
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3" style="border:1px solid white;margin:0 4% 30px 4%;padding:30px 10px;">
                         <div class="our-services-lbs-discbox border-white-lbs-padding">
                             <div class="strong"> Technology Project Documents </div>
                             <div style="margin-bottom: 10px;"> technical concept proposals; white papers; business requirement documents (BRDs); functional requirement documents (FRDs); technical specifications; project plans; project status (RAG) reports as well as Visio diagrams,</div>
-                            <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div>
+                            <!-- <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div> -->
                         </div>
                     </div>
                 </div>
@@ -129,21 +130,21 @@
                         <div class="our-services-lbs-discbox border-white-lbs-padding">
                             <div class="strong"> Online Marketing and Digital Platform Content </div>
                             <div style="margin-bottom: 10px;"> press releases, newsfeed posts, and blog posts; articles and newsletters for online publication,</div>
-                            <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div>
+                            <!-- <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div> -->
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3" style="border:1px solid white;margin:0 4% 30px 4%;padding:30px 10px;">
                         <div class="our-services-lbs-discbox border-white-lbs-padding">
                             <div class="strong"> Social Media Management &amp; Marketing </div>
                             <div style="margin-bottom: 10px;">creation, development, and management of social media accounts on LinkedIn, Facebook, Instagram, TikTok, and Twitter. Cultivation, engagement, and communication with follower bases, including promotional and media campaigns. Periodic reporting, analysis, and performance analytics.</div>
-                            <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div>
+                            <!-- <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div> -->
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3" style="border:1px solid white;margin:0 4% 30px 4%;padding:30px 10px;">
                         <div class="our-services-lbs-discbox border-white-lbs-padding">
                             <div class="strong"> Literary Publications </div>
                             <div style="margin-bottom: 10px;">writing, editing, theme development, structure and organization; and removing writer’s block.</div>
-                            <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div>
+                            <!-- <div style="background-color: #2f3e51; width: 100%; height: 30px; position: absolute; bottom: 0; left: 0;"></div> -->
                         </div>
                     </div>
                 </div>
