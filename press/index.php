@@ -50,16 +50,26 @@
     <section class="service-details-wrapper">
         <div class="container mt-5">
             <div class="content">
-                <div class="row" style="max-width: 800px !important;">
-                    <h1>News</h1><br />
-                    <br />
+                <div class="row" style="max-width: 1200px !important;">
 
-                    <p class="text-white">
-                        <!--<img src="<?php //echo $baseuri 
-                                        ?>/img/bodies.JPG" alt="bodies" /><br />-->
+                    <div >
+                        <div style="font-weight: 600;font-size: 18px;margin-bottom: 16px; color: white;">
+                            > Liquid Barrier CEO, Frank sat down with Janet Douglas-Pryce, Ph.D. Candidate, MA, MBA on her online program, Canopus Chats, to discuss his journey from Corporate America to start his own writing consultancy business, Liquid Barrier, LLC ) October 21, 2020 
+                        </div>
+                        <a href="https://lnkd.in/egsEjXR" style="color:white !important; text-decoration:underline !important;">
+                            Canopus Chats - S2 Ep.3- Working From Home ft. Liquid Barrier CEO, Frank Bryant
+                        </a>
+
+                    </div>
+
+                    <!-- <h1>News</h1><br />
+                    <br /> -->
+                    <!-- <p class="text-white">
+                        <img src="<?php //echo $baseuri 
+                                        ?>/img/bodies.JPG" alt="bodies" /><br />
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, sunt perspiciatis error id ipsa atque unde quis dolore nobis eum aperiam enim blanditiis pariatur inventore eius commodi consectetur ut. Totam, assumenda! Laboriosam possimus, corporis dicta!
                     </p>
-                    <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquid quod, officiis unde nostrum itaque! Adipisci dolorum, ab dolor, exercitationem praesentium dolorem quo voluptatum itaque dignissimos, sit esse cupiditate. Doloremque rerum similique a nobis placeat in illum, quo quaerat, ut repellat, fuga itaque? Nihil mollitia nisi, nam, accusantium nemo consequuntur reiciendis autem dicta consequatur earum beatae dolor distinctio, debitis repudiandae?</p>
+                    <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquid quod, officiis unde nostrum itaque! Adipisci dolorum, ab dolor, exercitationem praesentium dolorem quo voluptatum itaque dignissimos, sit esse cupiditate. Doloremque rerum similique a nobis placeat in illum, quo quaerat, ut repellat, fuga itaque? Nihil mollitia nisi, nam, accusantium nemo consequuntur reiciendis autem dicta consequatur earum beatae dolor distinctio, debitis repudiandae?</p> -->
                 </div>
             </div>
         </div>
